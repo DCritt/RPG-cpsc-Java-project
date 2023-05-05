@@ -1,5 +1,7 @@
 # RPG-cpsc-Java-project
 
+https://github.com/DCritt/RPG-cpsc-Java-project.git
+
 Revenge RPG Project
 
 In this game the objective is to get revenge on Big Ev because he threw you in the river while you were sleeping at his house.
