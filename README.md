@@ -41,5 +41,7 @@ drop book
 read book
 open door
 
+//if you input the command correctly but enter and invalid thing to use it on you only need to enter the thing you wish to use the command on again
+
 
 
